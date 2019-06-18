@@ -7,7 +7,7 @@ def load_library
   emoticon_lib = {'get_meaning'  => {},
                   'get_emoticon' => {} }
 emoticons.each do |meaning, value|
-
+binding.pry
 end
 end
 
