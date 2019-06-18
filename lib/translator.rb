@@ -7,6 +7,7 @@ def load_library
                   'get_emoticon' => {} }
 emoticons.each do |meaning, value|
 end
+end
 
 def get_japanese_emoticon
   # code goes here
